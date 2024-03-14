@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	. "github.com/SpongeData-cz/gopst"
+	. "github.com/DanielSvub/gopst"
 )
 
 func TestPst(t *testing.T) {
