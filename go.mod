@@ -1,4 +1,4 @@
-module github.com/SpongeData-cz/gopst
+module github.com/DanielSvub/gopst
 
 go 1.21
 
